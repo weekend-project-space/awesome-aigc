@@ -6,7 +6,7 @@ aigc prompts, aigc website, aigc source code, prompt enginer
 
 ## Website
 
-### draw
+### Draw
 - [Midjourney](https://www.midjourney.com/) - Free 20
 - [DALL·E 2](https://openai.com/dall-e-2/)
 - [Wenxin.yige](https://yige.baidu.com/)
@@ -21,7 +21,16 @@ aigc prompts, aigc website, aigc source code, prompt enginer
 - [Dream by wombo](https://dream.ai/)
 - [Runway ML](https://runwayml.com/)
 
-### chat
+### Unclassified
+- [inflection](https://inflection.ai/)
+- [cohere](https://cohere.ai/)
+- [adept](https://www.adept.ai/)
+- [anthropic](https://www.anthropic.com/)
+- [deepmind](https://www.deepmind.com)
+- [openai](https://openai.com/)
+- [boson](https://boson.ai/)
+
+### Chat
 
 - [Chat-gpt](https://chat.openai.com/)
 
